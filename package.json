@@ -1,0 +1,19 @@
+{
+  "name": "node_unit_testing",
+  "version": "1.0.0",
+  "description": "how to unit test and why",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "unit",
+    "testing"
+  ],
+  "author": "william sserubiri",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "sinon": "^7.4.1"
+  }
+}
